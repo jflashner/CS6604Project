@@ -1,0 +1,18 @@
+motion: The House Prefers a world where all individuals have a strong belief in Ubuntu.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  Ubuntu ("I am because we are") is a philosophical belief that asserts that people's identities should be shaped by, and their obligations should primarily be owed to, their communities.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

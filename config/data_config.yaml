@@ -1,0 +1,12 @@
+datasets:
+  bp_competition:
+    data_dir: "data/panel_bench/BP-Competition"
+    formats:
+      motion: "motion/bp_{id}.yml"
+      speech: "speech/bp_{id}.yml"
+
+  debateart:
+    data_dir: "data/panel_bench/DebateArt"
+    formats:
+      motion: "motion/debateart_{id}.yml"
+      speech: "speech/debateart_{id}.yml"

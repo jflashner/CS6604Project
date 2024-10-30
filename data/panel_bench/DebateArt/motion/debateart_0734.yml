@@ -1,0 +1,20 @@
+motion: Lightning Debate Alpha Test. (Topic will be No Gods exist)
+pro_side:
+  - name: Wrick-It-Ralph
+con_side:
+  - name: Dustandashes
+info_slide:
+  "Below are extra information provided by Wrick-It-Ralph, which may include\
+  \ Wrick-It-Ralph's arguments:\n\nAlright 5000 words and format will be as quick\
+  \ as possible. My goal is to produce nice mini debates that are easy to vote on.\
+  \ \nRound 1A: Opening\nRound 1B: Rebuttal of R1A \nRound 2A: Rebuttal of R1B\nRound\
+  \ 2B: Interrogation (5 Questions only for sake of testing until I know better)\n\
+  Round 3A: Answering R2B Questions and then interrogation.\nRound 3B: Answering R3A\
+  \ Closing."
+speech_order:
+  - Wrick-It-Ralph
+  - Dustandashes
+  - Wrick-It-Ralph
+  - Dustandashes
+  - Wrick-It-Ralph
+  - Dustandashes

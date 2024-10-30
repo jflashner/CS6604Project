@@ -1,0 +1,22 @@
+bp_003	EUDC 2020 Quarterfinal 0: This House Would transfer management of all water resources to an international body.
+bp_013	EUDC 2021 Quarterfinal 0: This House Supports Green Central Banking.
+bp_020	EUDC 2022 Final: This House Hopes that intelligent extraterrestrial life exists.
+bp_110	NAUDC 2021 Final: This House Prefers a world where all writing is pseudonymous.
+bp_130	NAUDC 2023 Final: This House Opposes New Optimism.
+bp_201	WUDC 2020 Semifinal 0: This House Prefers a "Brave New World" to the status quo in Western Liberal Democracies.
+bp_202	WUDC 2020 Semifinal 1: This House Prefers a "Brave New World" to the status quo in Western Liberal Democracies.
+bp_203	WUDC 2020 Quarterfinal 0: This House Believes that developing countries should acquire, on the open market, large stakes in major publicly-traded global corporations (eg. Google, JP Morgan, Shell, and Pfizer).
+bp_210	WUDC 2021 Final: The House Supports the creation of an international court with a mandate to prosecute leaders for health crimes.
+bp_211	WUDC 2021 Semifinal 0: The House Prefers to live an average anonymous life in South Korea over being a K-Pop star.
+bp_216	WUDC 2021 Quarterfinal 3: The House Opposes the Biden Administration plan to finance large scale governmental projects through multi-trillion dollar fiscal stimulus.
+bp_220	WUDC 2022 Final: This House Supports a decline in global reliance on the dollar.
+bp_221	WUDC 2022 Semifinal 0: This House Prefers religions that "center the self" to religions that "reject the self".
+bp_222	WUDC 2022 Semifinal 1: This House Prefers religions that "center the self" to religions that "reject the self".
+bp_223	WUDC 2022 Quarterfinal 0: This House Would ban the use of advanced analytics in political campaigns.
+bp_224	WUDC 2022 Quarterfinal 1: This House Would ban the use of advanced analytics in political campaigns.
+bp_230	WUDC 2023 Final: The House Prefers a world where all individuals have a strong belief in Ubuntu.
+bp_232	WUDC 2023 Semifinal 1: The House Regrets the dominance of left/liberal views at universities.
+bp_233	WUDC 2023 Quarterfinal 0: The House Believes that the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries.
+bp_234	WUDC 2023 Quarterfinal 1: The House Believes that the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries.
+bp_235	WUDC 2023 Quarterfinal 2: The House Believes that the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries.
+bp_236	WUDC 2023 Quarterfinal 3: The House Believes that the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries.

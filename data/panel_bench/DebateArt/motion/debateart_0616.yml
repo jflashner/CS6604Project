@@ -1,0 +1,13 @@
+motion: Yoda technically won his duel with Sidious in Revenge of the Sith
+pro_side:
+  - name: Type1
+con_side:
+  - name: KingArthur
+info_slide: No information
+speech_order:
+  - Type1
+  - KingArthur
+  - Type1
+  - KingArthur
+  - Type1
+  - KingArthur

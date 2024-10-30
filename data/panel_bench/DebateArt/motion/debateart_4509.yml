@@ -1,0 +1,24 @@
+motion:
+  It is commonly stated that 50% of all marriages end in divorce. PRO contends
+  that the actual number is less than 10%.
+pro_side:
+  - name: prefix
+con_side:
+  - name: Nyxified
+info_slide:
+  "Below are extra information provided by prefix, which may include prefix's
+  arguments:
+
+
+  The divorce rate in the USA is NOT 50%. It is actually much much lower."
+speech_order:
+  - prefix
+  - Nyxified
+  - prefix
+  - Nyxified
+  - prefix
+  - Nyxified
+  - prefix
+  - Nyxified
+  - prefix
+  - Nyxified

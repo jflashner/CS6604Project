@@ -1,0 +1,18 @@
+motion: Minimum wage is a bad thing, it should not be raised, and it should be abolished.
+pro_side:
+  - name: Conservallectual
+con_side:
+  - name: Novice_II
+info_slide:
+  "Below are extra information provided by Conservallectual, which may include\
+  \ Conservallectual's arguments:\n\nrules:\npro:\n* Should show how minimum wage\
+  \ is bad for the economy.\n* Should show why raising minimum wage is bad for the\
+  \ economy\n* Should show why minimum wage should be abolished\ncon:\n* should try\
+  \ to logically refute pro \n* Should show how minimum wage is good for the economy.\n\
+  * Should show why raising minimum wage is good for the economy\n* Should show why\
+  \ minimum wage should not be abolished"
+speech_order:
+  - Conservallectual
+  - Novice_II
+  - Conservallectual
+  - Novice_II

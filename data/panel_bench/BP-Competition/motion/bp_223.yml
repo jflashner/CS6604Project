@@ -1,0 +1,20 @@
+motion: This House Would ban the use of advanced analytics in political campaigns.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  Advanced Analytics is the autonomous or semi-autonomous examination of data or content. It involves using sophisticated techniques such as machine learning algorithms, deep learning, predictive modelling, or other tools to discover deeper insights, make predictions, or generate recommendations.
+
+  Advanced Analytics can be used for political microtargeting, which involves identifying the detailed profile of individual voters and voter groups, testing the most persuasive messages, and tailoring campaign strategy to target different voter profiles.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

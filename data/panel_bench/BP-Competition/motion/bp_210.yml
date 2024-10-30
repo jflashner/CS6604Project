@@ -1,0 +1,20 @@
+motion: The House Supports the creation of an international court with a mandate to prosecute leaders for health crimes.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  For the purposes of this debate 'health crimes' are massive violations of the international health codes.
+
+  For example, the unwillingness to comply with the WHO's regulations on dealing with pandemics, a significant violation of norms on the prescription of antibiotics, breaching the experimentation codes of ethics.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

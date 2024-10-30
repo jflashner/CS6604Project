@@ -1,0 +1,20 @@
+motion: This House Supports Green Central Banking.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  Green Central Banking refers to central banks deliberately using their monetary policy instruments to incentivise climate-friendly market activities. For instance, targeted green lending programmes, targeted green bond purchase programmes, "brown penalties" (higher interest rates for pollution-intensive banks or businesses), lowering the financing rate for banks that offer collateral with a smaller carbon footprint, and mandatory disclosures of climate risks.
+
+  For the purposes of this debate, green central banking would support climate-friendly policies even at the expense of traditional monetary objectives such as targeting inflation rates, ensuring financial stability and market efficiency, as well as retaining neutrality of intervention.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

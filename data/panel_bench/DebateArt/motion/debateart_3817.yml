@@ -1,0 +1,16 @@
+motion: Barney is not a good debater
+pro_side:
+  - name: Vici
+con_side:
+  - name: Barney
+info_slide:
+  "Below are extra information provided by Vici, which may include Vici's
+  arguments:
+
+
+  we only consider debateart because debate.org is gone and we don't know about it"
+speech_order:
+  - Vici
+  - Barney
+  - Vici
+  - Barney

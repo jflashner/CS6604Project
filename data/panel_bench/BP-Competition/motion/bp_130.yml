@@ -1,0 +1,20 @@
+motion: This House Opposes New Optimism.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  New Optimism - the narrative that human history is a story of constant improvement, and that we should be optimistic about the future of the human condition.
+
+  Supporters of new optimism point to evidence of progress in areas such as poverty reduction, technological advancement, and human rights as examples of constant improvement. Some suggest that this progress is due to increased globalization, free markets, scientific advancement, and collaboration among nations and individuals.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

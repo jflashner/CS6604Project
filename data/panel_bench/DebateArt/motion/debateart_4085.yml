@@ -1,0 +1,29 @@
+motion: On balance, synthetic diamonds are better than natural diamonds
+pro_side:
+  - name: K_Michael
+con_side:
+  - name: Sir.Lancelot
+info_slide:
+  "Below are extra information provided by K_Michael, which may include
+  K_Michael's arguments:
+
+
+  Rules
+
+  On balance means BoP is shared. Neither side can win by arguing, for instance, that
+  no diamonds are better than either option, or by positing an alternative gem.
+
+  Definitions
+
+  Synthetic diamond (or lab grown diamond): a diamond synthesized in a lab rather
+  than formed by regular geological processes. This is distinct from diamond imitations
+  such as cubic zirconia.
+
+  Diamond: If you don't know what a diamond is, do not accept this debate."
+speech_order:
+  - K_Michael
+  - Sir.Lancelot
+  - K_Michael
+  - Sir.Lancelot
+  - K_Michael
+  - Sir.Lancelot

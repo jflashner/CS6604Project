@@ -1,0 +1,18 @@
+motion: This House Hopes that intelligent extraterrestrial life exists.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  Humanity has invented a machine that will definitively determine whether intelligent life exists elsewhere in the universe. The results will be revealed publicly in this city in 15 minutes.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

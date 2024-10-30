@@ -1,0 +1,11 @@
+motion: Is MSG a problem?
+pro_side:
+  - name: Type1
+con_side:
+  - name: David
+info_slide: No information
+speech_order:
+  - Type1
+  - David
+  - Type1
+  - David

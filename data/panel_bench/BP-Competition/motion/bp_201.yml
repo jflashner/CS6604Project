@@ -1,0 +1,18 @@
+motion: This HousePrefers a "Brave New World" to the status quo in Western Liberal Democracies.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  A "Brave New World" has these characteristics: 1. People are genetically engineered and socially conditioned by the state for specific societal roles. 2. People's material and physical needs are unfailingly met. 3. There is no possibility of changing the social order.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

@@ -1,0 +1,28 @@
+motion:
+  Majority of people in most cases should use electric bicycles or electric
+  scooters instead of cars
+pro_side:
+  - name: Best.Korea
+con_side:
+  - name: Mall
+info_slide:
+  "Below are extra information provided by Best.Korea, which may include
+  Best.Korea's arguments:
+
+
+  Definitions
+
+  Majority - over 50%
+
+  Electric Bicycles - Bicycles powered by electric battery that makes them much easier
+  to ride.
+
+  Electric scooters - Scooters powered by electric battery that makes it unnecessary
+  to push them, but they go on their own instead."
+speech_order:
+  - Best.Korea
+  - Mall
+  - Best.Korea
+  - Mall
+  - Best.Korea
+  - Mall

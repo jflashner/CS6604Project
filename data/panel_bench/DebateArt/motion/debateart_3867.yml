@@ -1,0 +1,23 @@
+motion: GIF should be pronounced GIF, not JIF.
+pro_side:
+  - name: K_Michael
+con_side:
+  - name: RationalMadman
+info_slide:
+  "Below are extra information provided by K_Michael, which may include
+  K_Michael's arguments:
+
+
+  GIF: short for Graphics Interchange Format, a file format released in 1987 by Steve
+  Wilhite.
+
+  should: modal verb (DUTY);
+
+  used to say or ask what is the correct or best thing to do:"
+speech_order:
+  - K_Michael
+  - RationalMadman
+  - K_Michael
+  - RationalMadman
+  - K_Michael
+  - RationalMadman

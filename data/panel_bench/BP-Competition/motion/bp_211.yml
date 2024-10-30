@@ -1,0 +1,17 @@
+motion: The House Prefers to live an average anonymous life in South Korea over being a K-Pop star.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: No information.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

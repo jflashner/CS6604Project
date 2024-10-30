@@ -1,0 +1,17 @@
+motion: The House Opposes the Biden Administration plan to finance large scale governmental projects through multi-trillion dollar fiscal stimulus.
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: No information.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO

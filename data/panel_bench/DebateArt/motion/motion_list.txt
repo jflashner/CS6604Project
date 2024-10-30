@@ -1,0 +1,100 @@
+debateart_0017	0017: Faith and belief are useless in the pursuit of truth
+debateart_0020	0020: Is MSG a problem?
+debateart_0130	0130: 1 and .999 repeating are the same quantity. Exactly equal.
+debateart_0204	0204: The Colin Kaepernick Movement
+debateart_0244	0244: The user known as Wylted should commit suicide.
+debateart_0290	0290: Ordering drinks with no ice at a fastfood drive-thru
+debateart_0309	0309: The Claim That The Christian God Exists
+debateart_0386	0386: God Exists And Humans Depend On God To Live
+debateart_0466	0466: The US should increase military spending.
+debateart_0495	0495: In a general way, people do what they do because they don't know to do differently.
+debateart_0537	0537: CO2 doesn't cause climate change.
+debateart_0566	0566: The existence of God is impossible
+debateart_0569	0569: Anarcho-Capitalism would never work
+debateart_0570	0570: The Hebrew tribes are extinct, therefor "Jews" are not a race but are in fact followers of a Hebrew race cult known as "Judaism"
+debateart_0578	0578: Classical Liberals (Conservatives) and Liberals have the same ideology, it's just that one is a bit more "classical" and the other a bit more "liberal"
+debateart_0600	0600: Should America ban the AR-15
+debateart_0601	0601: Animal testing
+debateart_0616	0616: Yoda technically won his duel with Sidious in Revenge of the Sith
+debateart_0654	0654: Legalizing Abortion in the US
+debateart_0678	0678: All drugs should be legal
+debateart_0679	0679: Is Calvinism True?
+debateart_0684	0684: Jesus of Nazareth existed
+debateart_0716	0716: Are human motivations purely selfish?
+debateart_0731	0731: Morality Is Objective
+debateart_0734	0734: Lightning Debate Alpha Test. (Topic will be No Gods exist)
+debateart_0737	0737: Evolution, despite being officially considered a theory, is actually a fact.
+debateart_0750	0750: Should the Basics of Law Be Taught in High School? (As an Elective)
+debateart_0752	0752: 5g internet is a death grid
+debateart_0756	0756: There is no god
+debateart_0769	0769: Should Trump’s Wall Be Built Along The American-Mexican Border?
+debateart_0777	0777: Slytherins (the House) Are Misrepresented in the Harry Potter Books/Movies
+debateart_0778	0778: The Bible is evil
+debateart_0796	0796: Science is not the ultimate methodology which can be used to discern the truth.
+debateart_0802	0802: Ben Shapiro is not an intellectual
+debateart_0840	0840: Should anime be watched in sub instead of dub?
+debateart_0866	0866: Fetuses as a replacement for the USD
+debateart_0892	0892: Human Motivations Are Never Selfless
+debateart_0905	0905: Trump should not have bombed the Syrian Air Base in 2017
+debateart_0931	0931: Brandon Stark will be the one who leads Westeros at the end of episode 6
+debateart_0943	0943: Legislatively Speaking: The Alabama Abortion Law is bad
+debateart_0951	0951: Donald Trump Is Racist
+debateart_0956	0956: Is the earth flat?
+debateart_0959	0959: In The Pursuit of Truth and/or Knowledge, Do We Take Into Account Feelings?
+debateart_0962	0962: Take the Knee
+debateart_0987	0987: People only do good things for selfish reasons.
+debateart_0994	0994: Fictional debate: should the avengers movment be passed and why?
+debateart_1033	1033: Violent revolution is a just response to political oppression
+debateart_1043	1043: Foreign Invaders Should Be Removed From Africa
+debateart_1079	1079: Bestiality should not be illegal in all cases
+debateart_1080	1080: Bestiality should not be illegal in all cases
+debateart_3638	3638: Miracle claims are unlikely to be true.
+debateart_3645	3645: religion should be accepted as a reason not to agree with wokeness
+debateart_3687	3687: Minimum wage is a bad thing, it should not be raised, and it should be abolished.
+debateart_3696	3696: God is a fictional character founded on hearsay and supersition
+debateart_3817	3817: Barney is not a good debater
+debateart_3842	3842: Khajiit are better than Argonians 2.0
+debateart_3867	3867: GIF should be pronounced GIF, not JIF.
+debateart_3919	3919: It Is Wrong To Circumcise Male Children
+debateart_3935	3935: The education system sucks
+debateart_3943	3943: Slavery is still legal here in the US. African Americans and the 13th Amendment proves it.
+debateart_3965	3965: Actors can be great leaders
+debateart_3986	3986: Seifenblasen haben keine Rechte
+debateart_4005	4005: cable cars should be installed
+debateart_4024	4024: Capitalism Advanaces Society
+debateart_4038	4038: The Bible has proven the existence of God
+debateart_4066	4066: On balance, the concerns with Global Warming are exaggerated
+debateart_4085	4085: On balance, synthetic diamonds are better than natural diamonds
+debateart_4123	4123: Quran is not not word of god .
+debateart_4286	4286: Is abortion murder from the point of conception?
+debateart_4287	4287: Is abortion murder from the point of conception?
+debateart_4367	4367: Without divine authority, objective morality cannot exist.
+debateart_4374	4374: THBT: On balance, the competitions in Squid Game (2021) are not an accurate representation of capitalism in South Korea
+debateart_4389	4389: Video Rentals vs Streaming Services
+debateart_4395	4395: Robots are going to increase the quality of life for humans
+debateart_4398	4398: THBT: On balance, getting a STEM degree is more useful to society than getting a Liberal Arts degree
+debateart_4423	4423: The Quran has 0 contradictions; The Bible has many
+debateart_4509	4509: It is commonly stated that 50% of all marriages end in divorce. PRO contends that the actual number is less than 10%.
+debateart_4562	4562: THBT: Christianity is a contradiction to Judaism.
+debateart_4567	4567: The Government Should Ration Consumables
+debateart_4573	4573: Biden should pardon Trump
+debateart_4617	4617: In order to properly practice Christianity, you must strive for Entire Sanctification
+debateart_4620	4620: Owning a slave is consistent with Christian teachings
+debateart_4638	4638: Eazy Mac and Golden BSP VS a rap duo/group of your choice
+debateart_4640	4640: Arnold Schwarzenegger's physique is naturally achievable
+debateart_4642	4642: Les Miserables is better than Phantom of the Opera
+debateart_4643	4643: Pluto is not a planet
+debateart_4646	4646: Abortion is okay
+debateart_4653	4653: Humans fit into 10 intellect types
+debateart_4668	4668: Resolved: Diogenes is the wisest philosopher in history.
+debateart_4671	4671: God probably exists
+debateart_4674	4674: Discussing race-based genetic differences is a significant contributor to racism and is therefore unacceptable.
+debateart_4691	4691: Resolved: Universal Male Hierarchy is a myth.
+debateart_4696	4696: Chip and Devlin (same team) UK rap clash. Con picks 2 UK rappers to clash, cannot include my 2.
+debateart_4722	4722: Plant Based Diet VS Carnivore diet (con is carnivore)
+debateart_4723	4723: Majority of people in most cases should use electric bicycles or electric scooters instead of cars
+debateart_4734	4734: The American Revolution and the French Revolution were fueled by the same aspirations for freedom, democracy, and human rights.
+debateart_4735	4735: Abortion is always immoral.
+debateart_4736	4736: The United States (US) should leave the North Atlantic Treaty Organization (NATO)
+debateart_4739	4739: The Dark Knight (2008) is the greatest superhero movie of all time
+debateart_4835	4835: Methodism VS any other religion or denomination

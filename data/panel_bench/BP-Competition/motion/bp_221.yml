@@ -1,0 +1,20 @@
+motion: This House Prefers religions that "center the self" to religions that "reject the self".
+pro_side:
+  - name: OG
+  - name: CG
+con_side:
+  - name: OO
+  - name: CO
+info_slide: |
+  For the purposes of this debate, religions that "center the self" embrace human existence and individual experiences as special. Believers are asked to consider their choices and experiences, struggles, and connection to God as uniquely important and a path to salvation.
+
+  In contrast, religions that "reject the self" explicitly reject the idea that human existence and individual experiences are special. Believers are asked to accept individual experiences as temporary and unimportant, and individuality as an illusion that causes unhappiness.
+speech_order:
+  - OG
+  - OO
+  - OG
+  - OO
+  - CG
+  - CO
+  - CG
+  - CO
