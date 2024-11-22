@@ -30,3 +30,7 @@ class DebateManager:
             print(f"Gold Standard: {debate_data['gold']}")
         else:
             print("No gold standard available.")
+    
+    def load_debate(self, debate_id: str):
+        """Load the debate data."""
+        return self.loader.load_debate(debate_id)
