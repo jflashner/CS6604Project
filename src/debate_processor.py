@@ -24,7 +24,10 @@ def process_debate(debate):
                 try:
                     pro_response = generate(pro_prompt)
                     result = extract_scene_graph(pro_response)
+                    for argument in result.entities:
+                        argument.side = "pro"
                 except Exception as e:
+                    print(e)
                     pass
             scene_graph = result
         else:
@@ -34,8 +37,11 @@ def process_debate(debate):
                 try:
                     pro_response = generate(pro_prompt)
                     pro_scene_graph = extract_scene_graph(pro_response)
+                    for argument in pro_scene_graph.entities:
+                        argument.side = "pro"
                     result = combine_debate_graphs(pro_scene_graph,scene_graph)
                 except Exception as e:
+                    print
                     pass
             scene_graph = result
 
@@ -48,8 +54,11 @@ def process_debate(debate):
             try:
                 con_response = generate(con_prompt)
                 con_scene_graph = extract_scene_graph(con_response)
+                for argument in con_scene_graph.entities:
+                        argument.side = "con"
                 result = combine_debate_graphs(con_scene_graph,scene_graph)
             except Exception as e:
+                print(e)
                 pass
         scene_graph = result
 

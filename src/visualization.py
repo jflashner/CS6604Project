@@ -6,7 +6,7 @@ def graph_scene_graph(debate_graph):
 
     # Add nodes with attributes
     for entity in debate_graph.entities:
-        G.add_node(entity.id, content=entity.content)
+        G.add_node(entity.id, content=entity.content, side=entity.side)
 
     # Add edges with relationship types
     for rel in debate_graph.relationships:
@@ -27,7 +27,7 @@ def graph_scene_graph(debate_graph):
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
 
     # Draw node labels with content
-    node_labels = {node: f"ID: {node}\n{data['content'][:50]}..." 
+    node_labels = {node: f"ID: {node}\n{data['content'][:50]}...\nSide: {data['side']}" 
                   for node, data in G.nodes(data=True)}
     nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=8)
 

@@ -5,6 +5,7 @@ from datetime import datetime
 
 class ArgumentEntity(BaseModel):
     id: int
+    side: Optional[str] = None
     type: str = "argument"
     content: str
 
