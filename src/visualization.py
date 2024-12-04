@@ -41,3 +41,9 @@ def graph_all_scene_graphs(graph_history):
     for i, scene_graph in enumerate(graph_history):
         print(f"Scene Graph {i+1}:")
         graph_scene_graph(scene_graph)
+
+# Function to graph all scene graphs in the history list
+def save_all_scene_graphs(graph_history, path):
+    for i, scene_graph in enumerate(graph_history):
+        print(f"Scene Graph {i+1}:")
+        graph_scene_graph(scene_graph).savefig(f"{path}/scene_graph_{i+1}.png")
