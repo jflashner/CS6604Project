@@ -24,7 +24,7 @@ def evaluate_factual_accuracy_gpt(statement):
     """
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[{"role": "system", "content": "You are a fact-checking assistant."},
                       {"role": "user", "content": prompt}],
             max_tokens=100,
@@ -68,7 +68,7 @@ def evaluate_persuasiveness_gpt(pro_argument, con_argument):
     """
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "You are a debate evaluator who determines persuasiveness."},
                 {"role": "user", "content": prompt}
