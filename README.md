@@ -6,7 +6,7 @@
 3. Prayash Joshi
 4. Evar Jones
 
-#Project Description
+# Project Description
 Generate a debate graph capturing the argumentative structure of real debates. 
 The generated graph can be used to score each debater and determine a final winner.
 
