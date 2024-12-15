@@ -12,6 +12,7 @@ The generated graph can be used to score each debater and determine a final winn
 
 # Environment Setup
 Run pip install -r requirements.txt
+
 To run code OpenAI API key is required to be set in the environment variable OPENAI_API_KEY.
 
 # Instructions
